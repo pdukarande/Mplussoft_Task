@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Mplussoft_Task/static/css/main.fb56bc63.css",
-    "main.js": "/Mplussoft_Task/static/js/main.4406f66d.js",
+    "main.js": "/Mplussoft_Task/static/js/main.ccb92b11.js",
     "index.html": "/Mplussoft_Task/index.html",
     "main.fb56bc63.css.map": "/Mplussoft_Task/static/css/main.fb56bc63.css.map",
-    "main.4406f66d.js.map": "/Mplussoft_Task/static/js/main.4406f66d.js.map"
+    "main.ccb92b11.js.map": "/Mplussoft_Task/static/js/main.ccb92b11.js.map"
   },
   "entrypoints": [
     "static/css/main.fb56bc63.css",
-    "static/js/main.4406f66d.js"
+    "static/js/main.ccb92b11.js"
   ]
 }
