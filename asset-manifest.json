@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mplussoft_Task/static/css/main.fb56bc63.css",
+    "main.js": "/Mplussoft_Task/static/js/main.0427effc.js",
+    "index.html": "/Mplussoft_Task/index.html",
+    "main.fb56bc63.css.map": "/Mplussoft_Task/static/css/main.fb56bc63.css.map",
+    "main.0427effc.js.map": "/Mplussoft_Task/static/js/main.0427effc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb56bc63.css",
+    "static/js/main.0427effc.js"
+  ]
+}
