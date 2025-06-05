@@ -1,0 +1,16 @@
+
+.setImgwidth {
+    width: 100px;
+    height: auto;
+}
+
+.content{
+    border: 2px solid #97d76d;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.setDesc{
+    font-size: 14px;
+}
